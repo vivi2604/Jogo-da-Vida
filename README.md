@@ -55,10 +55,7 @@ A cada geração, o estado das células é atualizado com base nas seguintes reg
 
 1. Certifique-se de ter o Python instalado  
 2. Baixe ou clone este repositório  
-3. Execute o arquivo principal:
-
-```bash
-python principal.py
+3. Execute o arquivo principal
 
 ## 📚 Contexto
 
